@@ -6,9 +6,7 @@ import "./index.css";
 import App from "./App";
 
 ReactDOM.render(
-  <Provider>
     <BrowserRouter>
-      <App />
+        <App />
     </BrowserRouter>
-  </Provider>
-  , document.getElementById("root"));
+    , document.getElementById("root"));
