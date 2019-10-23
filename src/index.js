@@ -8,6 +8,7 @@ import App from "./App";
 ReactDOM.render(
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <BrowserRouter>
         <App />
     </BrowserRouter>
@@ -23,4 +24,9 @@ ReactDOM.render(
         <App />
     </BrowserRouter>
 >>>>>>> parent of 4624b08... my changes
+=======
+    <BrowserRouter>
+        <App />
+    </BrowserRouter>
+>>>>>>> parent of f66d887... first files to implement redux on user
     , document.getElementById("root"));
